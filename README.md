@@ -1,4 +1,4 @@
-# week2
+# week3
 
 ``
 echo "# week2" >> README.md
